@@ -18,7 +18,7 @@ require (
 	github.com/meilisearch/meilisearch-go v0.26.2
 	github.com/minio/minio-go/v7 v7.0.69
 	github.com/ory/kratos-client-go v1.1.0
-	github.com/qdrant/go-client v1.9.0
+	github.com/qdrant/go-client v1.11.1
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/viper v1.12.0
 	github.com/tmc/langchaingo v0.1.9
